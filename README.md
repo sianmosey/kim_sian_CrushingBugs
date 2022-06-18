@@ -1,4 +1,4 @@
-# Puzzle Game
+# Crushing Bugs
 
 ## Drag and Drop Fun!
 
